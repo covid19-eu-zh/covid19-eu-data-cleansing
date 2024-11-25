@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/covid19-eu-zh/covid19-eu-data-api#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
